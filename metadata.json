@@ -1,0 +1,6 @@
+{
+  "name": "ENSA",
+  "description": "Explosão Naruto Shippuden em Angola - Portal Geek profissional com notícias, animes, mangás, jogos, calendário de lançamentos, quizzes e comunidade otaku.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
